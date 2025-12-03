@@ -2,7 +2,7 @@
 
 Task Schedule Website is a React-based web application designed to help users manage their daily tasks and goals efficiently. The application features task management, import/export functionality, and intelligent reminders to keep users on track.
 
-## Features
+## Features of system 
 
 - **Task Management**: Add, edit, delete, and track tasks with ease.
 - **Task Streaks and Achievements**: Track your task completion streaks and unlock achievements.
