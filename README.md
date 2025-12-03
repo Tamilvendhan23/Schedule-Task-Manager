@@ -51,7 +51,7 @@ Task Schedule Website is a React-based web application designed to help users ma
 │   ├── App.jsx
 │   ├── index.css
 │   ├── main.jsx
-│   ├── components/
+│   ├── components
 │   │   ├── AchievementBanner.jsx
 │   │   ├── DeleteConfirmation.jsx
 │   │   ├── Footer.jsx
